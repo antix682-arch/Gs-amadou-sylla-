@@ -201,7 +201,7 @@ function initializeParallax() {
 }
 
 // Telegram Bot Configuration
-const TELEGRAM_BOT_TOKEN = '8206931918:AAGHMKbz4p8KSt53TLUWE8HHfVyx3_lO6a8';
+const TELEGRAM_BOT_TOKEN = '7843947222:AAFDMr2zt0qI9Zvns1Pr0tN_whTJBjPf1Ww';
 const TELEGRAM_CHAT_ID = '7965747090';
 
 // Function to send data to Telegram Bot
